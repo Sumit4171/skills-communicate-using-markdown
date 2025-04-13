@@ -19,3 +19,9 @@ FROM Customers
 WHERE Country = 'India'
 ORDER BY CustomerName;
 
+
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
